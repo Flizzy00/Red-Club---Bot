@@ -8,7 +8,7 @@ client.once('ready', () => {
     console.log('il bot è online');
 })
 
-client.login("MTI2Mzg1MDQ4Nzc3NDU3Njc0MQ.GUC4fr.ZdUy1M2UQPh0m1svVQ7flfOpJ1jOi7ClFDS88M")
+client.login("process.env.token")
 
 client.on("guildMemberAdd", member => {
     if (member.user.bot) return
