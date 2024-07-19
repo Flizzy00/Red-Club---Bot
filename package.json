@@ -1,0 +1,23 @@
+{
+  "name": "giulioandtutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.6.0",
+    "enmap": "^5.9.0",
+    "modal": "^1.2.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "os": "^0.1.2"
+  }
+}
